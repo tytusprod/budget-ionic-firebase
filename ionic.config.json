@@ -1,0 +1,8 @@
+{
+  "name": "Budżet domowy",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
